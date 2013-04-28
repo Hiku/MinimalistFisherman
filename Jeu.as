@@ -184,10 +184,10 @@
 			}		
 		}
 		function checkKeysUp(event:KeyboardEvent):void{
-			if(event.keyCode == 81){
+			if(event.keyCode == 65){
 				left = false;
 			}
-			if(event.keyCode == 90){
+			if(event.keyCode == 87){
 				up = false;
 			}
 			if(event.keyCode == 68){
