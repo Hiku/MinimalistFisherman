@@ -162,10 +162,10 @@
 		}
 		
 		function checkKeysDown(event:KeyboardEvent):void{
-			if(event.keyCode == 81){
+			if(event.keyCode == 65){
 				left = true;
 			}
-			if(event.keyCode == 90){
+			if(event.keyCode == 87){
 				up = true;
 			}
 			if(event.keyCode == 68){
